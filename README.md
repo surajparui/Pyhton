@@ -1,7 +1,3 @@
-Sure! Here's a consolidated version of the previous responses, which you can use as a starting point for creating a README file:
-
----
-
 # The World's Flyer
 
 The World's Flyer is a flight booking application that allows users to search for flights, view search results, and manage existing bookings. This README file provides an overview of the application's features, functionality, and usage instructions.
